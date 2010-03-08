@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>elna.cniyvpx@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Ryan Pavlick</string>
+	<key>name</key>
+	<string>NCL</string>
+	<key>ordering</key>
+	<array>
+		<string>598619FA-8269-4E52-A6E8-63CCB018AF23</string>
+		<string>139F82E2-D5BD-4805-8AEB-784393522E8F</string>
+		<string>5BF073CE-317A-4E0B-82AD-C2F9F23A4234</string>
+	</array>
+	<key>uuid</key>
+	<string>C8C70A96-A724-4897-BA2D-926BD003E82F</string>
+</dict>
+</plist>
