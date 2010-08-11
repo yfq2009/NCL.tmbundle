@@ -16,4 +16,4 @@ Source can be viewed or forked via GitHub:
 Authors
 =======
 
-Ryan Pavlick [ryanDOTpavlickATgmailDOTcom]
+Ryan Pavlick [http://www.google.com/profiles/ryan.pavlick]
