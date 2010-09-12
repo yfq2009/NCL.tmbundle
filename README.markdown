@@ -1,4 +1,5 @@
 NCL TextMate bundle
+Copyright (c) 2010 Ryan Pavlick
 --------------------
 
 Installation
