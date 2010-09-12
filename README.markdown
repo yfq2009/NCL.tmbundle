@@ -1,9 +1,7 @@
-NCL TextMate bundle
-Copyright (c) 2010 Ryan Pavlick
---------------------
+# NCL TextMate bundle #
+Copyright (c) 2010 Ryan Pavlick  
 
-Installation
-============
+## Installation ##
 
 To install via Git:
 
